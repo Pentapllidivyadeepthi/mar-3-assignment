@@ -1,0 +1,4 @@
+# mar-3-assignment
+a=('mscs',2,'deekshitha')
+b=('mscs',3,'divya')
+print(a+b)
